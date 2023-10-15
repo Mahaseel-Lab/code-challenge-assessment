@@ -24,6 +24,7 @@
 **Bonus (Optional):**
 
 - Implement real-time updates for posts and user interactions using Firebase Realtime Database.
+- Implement internationalization (i18n) for the app, allowing users to switch between multiple languages (e.g., English and arabic).
 - Allow users to follow other users and see a feed of posts from followed users.
 - Implement user profiles with profile pictures and additional user information.
 - Add liking and commenting features for posts.
