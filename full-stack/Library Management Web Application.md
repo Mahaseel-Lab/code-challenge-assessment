@@ -1,4 +1,4 @@
-**Certainly! Here's another code challenge assessment for a full-stack developer with experience in Node.js, Express, React, and MongoDB. This challenge focuses on building a complete web application for managing a library of books.**
+**Certainly! Here's a code challenge assessment for a full-stack developer with experience in Node.js, Express, React, and MongoDB. This challenge focuses on building a complete web application for managing a library of books.**
 
 **Title:** Library Management Web Application
 
