@@ -1,6 +1,6 @@
 **Title:** Online Quiz Platform
 
-**Description:** You are tasked with building an online quiz platform using Node.js, MongoDB, Express.js, and Redis. This platform should allow users to create and participate in quizzes. Users can answer questions, see their scores, and view their quiz history.
+**Description:** You are tasked with building an online quiz platform using Node.js, MongoDB, and Express.js. This platform should allow users to create and participate in quizzes. Users can answer questions, see their scores, and view their quiz history.
 
 **Requirements:**
 
@@ -27,12 +27,11 @@
     - View user quiz history (completed quizzes)
 
 4.  Implement JWT authentication for user registration and login. Return a JWT token upon successful login.
-5.  Implement validation and error handling for the API endpoints. Ensure that the API returns appropriate error messages for validation failures and other errors.
-6.  Use MongoDB as the database to store user and quiz data. You can use an ODM library like Mongoose to work with MongoDB.
-7.  Use Redis to store quiz state (e.g., which questions were answered, time remaining) during the quiz. This can help users continue the quiz where they left off.
-8.  Secure the application against common security vulnerabilities.
-9.  Write unit tests for your controllers and services to ensure the functionality of your endpoints.
-10. Use proper project structure and organization following Express.js and Node.js best practices.
+1.  Implement validation and error handling for the API endpoints. Ensure that the API returns appropriate error messages for validation failures and other errors.
+1.  Use MongoDB as the database to store user and quiz data. You can use an ODM library like Mongoose to work with MongoDB.
+1.  Secure the application against common security vulnerabilities.
+1.  Write unit tests for your controllers and services to ensure the functionality of your endpoints.
+1. Use proper project structure and organization following Express.js and Node.js best practices.
 
 **Bonus (Optional):**
 
@@ -41,6 +40,7 @@
 - Implement real-time quiz updates using WebSockets.
 - Containerize the application using Docker.
 - Deploy the application to a cloud platform of your choice.
+- Use Redis to store quiz state (e.g., which questions were answered, time remaining) during the quiz. This can help users continue the quiz where they left off.
 
 **Submission:** Provide a GitHub repository with your Express.js project and a README file with instructions on how to run and test the application. Make sure to include any necessary environment variables or configuration settings.
 
