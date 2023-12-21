@@ -1,5 +1,3 @@
-**Certainly! Here's a code challenge assessment for a backend developer with experience in Node.js, MongoDB, Express.js, and Redis. This challenge will test the candidate's ability to work with these technologies and demonstrate their problem-solving skills.**
-
 **Title:** Online Quiz Platform
 
 **Description:** You are tasked with building an online quiz platform using Node.js, MongoDB, Express.js, and Redis. This platform should allow users to create and participate in quizzes. Users can answer questions, see their scores, and view their quiz history.
@@ -54,5 +52,3 @@
 4.  Security practices.
 5.  Use of best practices in Express.js, MongoDB, and Redis.
 6.  Unit test coverage and quality.
-
-This challenge assesses a candidate's ability to design and implement an online quiz platform using Node.js, MongoDB, Express.js, and Redis, with a focus on code quality, security, and best practices.
